@@ -1,0 +1,7 @@
+EchoThrow is distributed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+because it is built with the JUCE framework, which is dual-licensed (AGPLv3 / commercial).
+
+Full text: https://www.gnu.org/licenses/agpl-3.0.txt
+
+If you want to distribute a closed-source version, a commercial JUCE licence is required:
+https://juce.com/juce-8-licence/
